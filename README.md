@@ -95,9 +95,12 @@ If you want to see code samples or discuss a specific tech area before the pins 
 
 ## Open to
 
-✅ **Remote full-time / contract roles** — Backend, Full-Stack, Cloud  
-✅ **Freelance projects** — APIs, microservices architecture, Spring Boot apps  
-✅ **Collaboration** on interesting open source work
+✅ **Open to full-time / contract opportunities** — Full Stack, Backend, AI/ML, Cloud
+✅ **Specialized in Full Stack Engineering** — Building scalable Java / Spring Boot backends with Angular / React / Next.js front ends
+✅ **AI / ML Engineering** — Developing Azure AI, RAG pipelines, and LLM-powered product features
+✅ **Backend & Platform Architecture** — Designing APIs, microservices, and distributed systems
+✅ **Technical Collaboration** — Contributing to open source, mentoring, and knowledge sharing
+
 
 ---
 
