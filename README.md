@@ -21,7 +21,7 @@ I design and ship **production-grade backend systems** — microservices on AWS/
 
 ## I have some private repos 
 
-I 
+exe-Claude: I built an extension that lets us use office Claude’s UNLIMITED PREMIUM MODELS for FREE on our PRIVATE LAPTOP'S, without any SSO or login.”
 
 ---
 
