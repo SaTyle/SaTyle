@@ -18,6 +18,13 @@ I design and ship **production-grade backend systems** — microservices on AWS/
 
 ---
 
+
+## I have some private repos 
+
+I 
+
+---
+
 ## Tech stack
 
 **Backend**
