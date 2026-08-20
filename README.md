@@ -1,5 +1,5 @@
 <!-- Profile view counter -->
-![Profile views](https://komarev.com/ghpvc/?username=SaTyle&color=378ADD&style=flat-square&label=Profile+views) × 2
+![Profile views](https://komarev.com/ghpvc/?username=SaTyle&color=378ADD&style=flat-square&label=Profile+views)
 
 <!-- Typing animation -->
 <p align="center">
